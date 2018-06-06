@@ -3,13 +3,13 @@
 This is a collection of definitions for terms and ideas used in the monitoring community.
 
 ##### Table of Contents
-- [Monitoring] (#monitoring)
-- [Observability] (#observability)
-- [Instrumentation] (#instrumentation)
-- [SRE] (#sre)
-- [SLA] (#sla)
-- [SLO] (#slo)
-- [Symptom based vs cause based alerting] (#symptomvscausealerting)
+- [Monitoring](#monitoring)
+- [Observability](#observability)
+- [Instrumentation](#instrumentation)
+- [SRE](#sre)
+- [SLA](#sla)
+- [SLO](#slo)
+- [Symptom based vs cause based alerting](#symptomvscausealerting)
 
 <a name="monitoring"/>
 ### Monitoring
