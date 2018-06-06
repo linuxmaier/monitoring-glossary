@@ -1,10 +1,9 @@
 ## A glossary of Monitoring terms
-
 This is a collection of definitions for terms and ideas used in the monitoring community.
 
-##### Table of Contents
+Table of Contents
+=================
       * [A glossary of Monitoring terms](#a-glossary-of-monitoring-terms)
-               * [Table of Contents](#table-of-contents)
          * [Monitoring](#monitoring)
          * [Observability](#observability)
          * [Instrumentation](#instrumentation)
